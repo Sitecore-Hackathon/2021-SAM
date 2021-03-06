@@ -1,0 +1,15 @@
+id: {{Title}}
+fields:
+  pageTitle: {{Title}}
+placeholders:
+  jss-main:
+    - componentName: Article
+      fields:
+        ArticleId: {{ArticleId}}
+        Title: {{Title}}
+        Description: | 
+          {{Description}}
+        Author: {{Author}}
+        BlogImage:
+          src: /data/media/img/{{BlogImage}}
+          alt: {{BlogImage}}
