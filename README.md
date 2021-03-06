@@ -6,7 +6,8 @@ Its very tedious jobs for front end developer to create bulk of en.yml files for
 # Documentation
 
 Refer CSV to YML Converter for JSS application.pdf
-![CSV to YML Converter for JSS application](docs/images/CSV to YML Converter for JSS application.pdf?raw=true "CSV to YML Converter for JSS application") 
+
+https://github.com/Sitecore-Hackathon/2021-SAM/blob/main/docs/images/CSV%20to%20YML%20Converter%20for%20JSS%20application.pdf
 
 Youtube Video: 
 	https://youtu.be/EA8PZweoZ7U  
